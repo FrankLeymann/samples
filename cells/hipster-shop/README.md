@@ -415,7 +415,7 @@ Access url [http://my-hipstershop.com/](http://my-hipstershop.com/) from a brows
 [![Cell architecture of Hipstershop services](../../docs/images/hipster-shop/hipstershop-application-cart.png)](../../docs/images/hipster-shop/hipstershop-application-cart.png)
 
 ## Observability
-The hipster shop cells and components can be observed in runtime, and it provides overview about the cells, components, metrics, and distributed tracing. Below are 
+The hipster shop cells and components can be observed at runtime, and it provides overview about the cells, components, metrics, and distributed tracing. Below are 
 some of the screenshots of observability provided by [http://cellery-dashboard](http://cellery-dashboard). You can find more information about the observability 
 [here](https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-observability.md). 
 
@@ -438,7 +438,7 @@ Metrics for component `checkout`
 
 ---
 
-List of cells in the runtime
+List of cells at runtime
 
 ![List cells](../../docs/images/hipster-shop/cells-list-view.png)
 
